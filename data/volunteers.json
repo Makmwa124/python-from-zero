@@ -1,0 +1,102 @@
+{
+  "shelter": "Sunny Paws Animal Rescue",
+  "volunteers": [
+    {
+      "name": "Ken Adebayo",
+      "days": [
+        "Tue",
+        "Wed",
+        "Sat"
+      ],
+      "skills": [
+        "dog walking",
+        "training"
+      ],
+      "since": 2016
+    },
+    {
+      "name": "Lucy Fairbanks",
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "skills": [
+        "cat care",
+        "photography"
+      ],
+      "since": 2021
+    },
+    {
+      "name": "Omar Haddad",
+      "days": [
+        "Thu",
+        "Fri"
+      ],
+      "skills": [
+        "dog walking",
+        "cleaning"
+      ],
+      "since": 2023
+    },
+    {
+      "name": "Grace Kim",
+      "days": [
+        "Wed",
+        "Sun"
+      ],
+      "skills": [
+        "front desk",
+        "social media"
+      ],
+      "since": 2024
+    },
+    {
+      "name": "Tomas Novak",
+      "days": [
+        "Tue",
+        "Thu",
+        "Sat"
+      ],
+      "skills": [
+        "small animals",
+        "cleaning"
+      ],
+      "since": 2022
+    },
+    {
+      "name": "Aisha Bello",
+      "days": [
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "skills": [
+        "cat care",
+        "fundraising"
+      ],
+      "since": 2025
+    },
+    {
+      "name": "Ben Carter",
+      "days": [
+        "Sun"
+      ],
+      "skills": [
+        "dog walking"
+      ],
+      "since": 2026
+    },
+    {
+      "name": "Mei Chen",
+      "days": [
+        "Tue",
+        "Fri"
+      ],
+      "skills": [
+        "front desk",
+        "photography"
+      ],
+      "since": 2025
+    }
+  ]
+}

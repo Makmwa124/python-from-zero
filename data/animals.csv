@@ -1,0 +1,49 @@
+id,name,species,breed,sex,age_years,weight_kg,arrived,status,adopted_on,good_with_kids,notes
+SP-001,Peanut,Dog,Labrador mix,M,4.5,28.6,2026-01-07,Available,,no,
+SP-002,Truffle,Cat,Tuxedo,F,1,3.9,2026-01-07,Medical hold,,yes,
+SP-003,Shadow,Guinea pig,American,M,4,0.9,2026-01-10,Medical hold,,yes,Shy at first
+SP-004,Biscuit,Rabbit,Dutch,F,0.5,2.5,2026-01-19,Adopted,2026-03-03,yes,Prefers a quiet home
+SP-005,Waffles,Cat,Tuxedo,M,0.6,1.7,2026-01-21,Foster,,yes,Prefers a quiet home
+SP-006,Rocket,Guinea pig,Teddy,M,3,0.7,2026-01-26,Medical hold,,no,Prefers a quiet home
+SP-007,Gus,Dog,Labrador mix,F,2,26.8,2026-01-28,Adopted,2026-03-08,yes,Good on a lead
+SP-008,Pickles,Dog,Chihuahua,F,5,2.4,2026-01-29,Adopted,2026-02-27,yes,
+SP-009,Poppy,Dog,Boxer mix,F,10,30.7,2026-02-02,Foster,,yes,
+SP-010,Scout,Dog,Greyhound,M,4.5,28.9,2026-02-03,Available,,yes,Good on a lead
+SP-011,Hazel,Rabbit,Rex,M,3,2.5,2026-02-07,Foster,,no,House-trained
+SP-012,Mochi,Rabbit,Lop,F,3,3.2,2026-02-13,Medical hold,,yes,Knows sit and paw
+SP-013,Toast,Cat,Maine Coon mix,F,3.5,4.0,2026-02-14,Available,,no,Likes other cats
+SP-014,Kiwi,Dog,Beagle,F,3,12.2,2026-02-18,Available,,yes,
+SP-015,Pumpkin,Cat,Tuxedo,M,5.5,3.4,2026-02-21,Foster,,no,Loves belly rubs
+SP-016,Ollie,Cat,Siamese mix,F,14,3.9,2026-02-22,Available,,no,Needs daily medication
+SP-017,Marble,Dog,Boxer mix,M,9.5,28.8,2026-02-23,Adopted,2026-03-27,no,Loves belly rubs
+SP-018,Coco,Dog,Chihuahua,F,3.5,3.0,2026-02-23,Foster,,yes,
+SP-019,Bramble,Rabbit,Lop,F,2,1.4,2026-02-28,Available,,yes,
+SP-020,Ziggy,Rabbit,Dutch,F,6,3.2,2026-03-03,Available,,yes,Loves belly rubs
+SP-021,Fern,Cat,Siamese mix,F,11,2.8,2026-03-05,Available,,no,Shy at first
+SP-022,Lola,Cat,Tabby,F,14,6.2,2026-03-12,Adopted,2026-03-18,yes,
+SP-023,Sage,Cat,Domestic shorthair,F,2,2.8,2026-03-13,Available,,yes,
+SP-024,Hopper,Dog,Greyhound,F,0.4,14.5,2026-03-23,Adopted,2026-04-29,yes,Good on a lead
+SP-025,Daisy,Dog,Beagle,M,7.5,12.2,2026-03-24,Available,,no,Good on a lead
+SP-026,Mango,Cat,Siamese mix,F,14,4.9,2026-03-25,Medical hold,,yes,Prefers a quiet home
+SP-027,Otis,Rabbit,Lop,F,1,2.3,2026-03-30,Available,,yes,Prefers a quiet home
+SP-028,Milo,Dog,Beagle,M,1.3,10.7,2026-03-31,Available,,yes,
+SP-029,Maple,Dog,Spaniel,F,3,11.7,2026-03-31,Adopted,2026-05-04,no,
+SP-030,Bella,Cat,Domestic longhair,M,5,5.7,2026-04-02,Medical hold,,yes,Loves belly rubs
+SP-031,Rusty,Guinea pig,American,F,1,1.2,2026-04-06,Available,,yes,Loves belly rubs
+SP-032,Bear,Cat,Domestic longhair,M,3,5.5,2026-04-14,Available,,yes,
+SP-033,Sprout,Dog,Shepherd mix,F,10,23.2,2026-04-14,Adopted,2026-06-04,no,
+SP-034,Willow,Cat,Domestic shorthair,F,14.5,6.2,2026-04-24,Medical hold,,yes,
+SP-035,Echo,Cat,Tuxedo,F,1.5,4.5,2026-04-25,Adopted,2026-06-06,yes,
+SP-036,Pepper,Cat,Tuxedo,F,8,4.4,2026-04-29,Available,,yes,Knows sit and paw
+SP-037,Juniper,Dog,Shepherd mix,F,10,22.3,2026-05-01,Available,,yes,
+SP-038,Rosie,Cat,Domestic longhair,F,1,3.1,2026-05-02,Foster,,no,Very playful
+SP-039,Luna,Dog,Terrier mix,M,1.3,7.5,2026-05-09,Foster,,yes,Very playful
+SP-040,Duke,Dog,Shepherd mix,M,10,27.7,2026-05-20,Foster,,no,Needs daily medication
+SP-041,Ginger,Guinea pig,American,M,4,0.9,2026-05-22,Foster,,no,
+SP-042,Bruno,Dog,Spaniel,F,10,11.8,2026-05-23,Available,,no,Prefers a quiet home
+SP-043,Tilly,Cat,Domestic longhair,M,11.5,5.4,2026-05-25,Available,,yes,Likes other cats
+SP-044,Olive,Dog,Beagle,M,0.9,6.8,2026-05-30,Medical hold,,yes,Knows sit and paw
+SP-045,Pip,Guinea pig,Teddy,M,2,1.1,2026-06-01,Foster,,no,
+SP-046,Clover,Rabbit,Lionhead,M,0.5,2.3,2026-06-02,Available,,yes,
+SP-047,Nugget,Dog,Greyhound,M,2,30.0,2026-06-02,Available,,yes,
+SP-048,Nova,Dog,Terrier mix,F,6,6.5,2026-06-05,Available,,no,

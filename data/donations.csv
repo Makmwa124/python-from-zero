@@ -1,0 +1,131 @@
+date,donor,amount,method
+2026-01-02,Maple Falls Rotary Club,150,online
+2026-01-03,Chris Doyle,50,online
+2026-01-03,Maple Falls Rotary Club,250,card
+2026-01-06,The Okoro family,25,cash
+2026-01-08,The Okoro family,10,cash
+2026-01-09,Maple Falls Rotary Club,250,card
+2026-01-09,Fatima Noor,20,cash
+2026-01-10,Sam Whitfield,50,cash
+2026-01-11,Maple Falls Rotary Club,150,cash
+2026-01-14,Priya Shah,5,online
+2026-01-15,Sam Whitfield,100,card
+2026-01-15,Maple Falls Bakery,150,cash
+2026-01-16,Priya Shah,50,cash
+2026-01-17,Sam Whitfield,20,cash
+2026-01-18,Chris Doyle,50,online
+2026-01-21,Fatima Noor,10,cash
+2026-01-24,Fatima Noor,100,card
+2026-01-24,Maple Falls Rotary Club,250,cash
+2026-01-27,Jordan Lee,5,cash
+2026-01-28,Jordan Lee,50,online
+2026-01-29,Chris Doyle,100,card
+2026-01-30,Hiro Tanaka,10,cash
+2026-02-01,Sam Whitfield,10,online
+2026-02-01,Maple Falls Bakery,150,online
+2026-02-03,Jordan Lee,50,online
+2026-02-03,Anonymous,20,cash
+2026-02-04,Sam Whitfield,20,card
+2026-02-05,Hiro Tanaka,20,cash
+2026-02-08,Hiro Tanaka,50,online
+2026-02-12,Jordan Lee,50,cash
+2026-02-13,Maple Falls Rotary Club,200,online
+2026-02-14,Jordan Lee,10,card
+2026-02-17,Priya Shah,100,online
+2026-02-20,The Okoro family,5,card
+2026-02-20,Anonymous,50,online
+2026-02-21,The Okoro family,25,online
+2026-02-22,Anonymous,25,online
+2026-02-25,Fatima Noor,5,online
+2026-02-26,The Okoro family,50,cash
+2026-02-27,Sam Whitfield,5,online
+2026-02-27,Jordan Lee,5,online
+2026-02-28,Maple Falls Bakery,200,online
+2026-03-01,The Okoro family,5,online
+2026-03-05,Anonymous,50,online
+2026-03-06,Chris Doyle,20,online
+2026-03-07,Priya Shah,50,online
+2026-03-08,Sam Whitfield,20,online
+2026-03-11,Jordan Lee,10,card
+2026-03-11,Jordan Lee,20,online
+2026-03-12,Ana Costa,50,online
+2026-03-12,Priya Shah,100,card
+2026-03-13,Ana Costa,100,cash
+2026-03-14,Sam Whitfield,20,cash
+2026-03-17,Fatima Noor,100,card
+2026-03-17,The Okoro family,20,online
+2026-03-19,Priya Shah,100,card
+2026-03-20,The Okoro family,50,online
+2026-03-21,Anonymous,10,cash
+2026-03-22,Elena Petrova,50,cash
+2026-03-22,Jordan Lee,50,online
+2026-03-25,Maple Falls Bakery,150,cash
+2026-03-28,Jordan Lee,100,cash
+2026-03-28,Anonymous,10,card
+2026-03-29,Chris Doyle,20,card
+2026-03-31,Fatima Noor,10,cash
+2026-03-31,Jordan Lee,20,card
+2026-04-01,Elena Petrova,5,cash
+2026-04-02,Sam Whitfield,25,card
+2026-04-02,Hiro Tanaka,100,card
+2026-04-03,The Okoro family,20,cash
+2026-04-04,Chris Doyle,50,cash
+2026-04-04,Sam Whitfield,20,online
+2026-04-07,Fatima Noor,25,online
+2026-04-08,Maple Falls Bakery,200,cash
+2026-04-08,Maple Falls Bakery,150,online
+2026-04-10,Maple Falls Bakery,200,cash
+2026-04-10,Elena Petrova,50,card
+2026-04-12,Elena Petrova,10,online
+2026-04-14,Elena Petrova,10,online
+2026-04-15,Priya Shah,50,online
+2026-04-22,Chris Doyle,100,online
+2026-04-23,Ana Costa,25,online
+2026-04-23,Priya Shah,10,cash
+2026-04-24,Ana Costa,50,cash
+2026-04-25,The Okoro family,25,online
+2026-04-28,Fatima Noor,50,card
+2026-04-29,Maple Falls Bakery,200,online
+2026-04-29,Anonymous,50,card
+2026-05-02,Hiro Tanaka,10,cash
+2026-05-03,Elena Petrova,25,online
+2026-05-05,Sam Whitfield,25,online
+2026-05-06,Anonymous,20,cash
+2026-05-07,The Okoro family,20,online
+2026-05-07,Hiro Tanaka,10,online
+2026-05-08,Fatima Noor,10,card
+2026-05-09,Hiro Tanaka,25,cash
+2026-05-10,Priya Shah,20,online
+2026-05-10,Jordan Lee,5,online
+2026-05-12,Priya Shah,50,cash
+2026-05-14,Maple Falls Bakery,200,online
+2026-05-17,The Okoro family,50,card
+2026-05-22,Sam Whitfield,20,online
+2026-05-23,Maple Falls Bakery,150,card
+2026-05-24,Sam Whitfield,20,online
+2026-05-26,Maple Falls Bakery,250,card
+2026-05-27,Chris Doyle,50,cash
+2026-05-28,Maple Falls Bakery,200,cash
+2026-05-28,Sam Whitfield,20,cash
+2026-05-29,Jordan Lee,25,card
+2026-05-30,Chris Doyle,5,cash
+2026-05-31,Maple Falls Bakery,200,online
+2026-06-02,Sam Whitfield,5,card
+2026-06-05,Priya Shah,20,cash
+2026-06-06,Maple Falls Rotary Club,150,online
+2026-06-06,Jordan Lee,50,card
+2026-06-07,Chris Doyle,10,online
+2026-06-10,Chris Doyle,20,online
+2026-06-12,The Okoro family,50,cash
+2026-06-16,The Okoro family,50,card
+2026-06-18,The Okoro family,10,cash
+2026-06-19,Hiro Tanaka,10,card
+2026-06-20,Chris Doyle,50,cash
+2026-06-21,Fatima Noor,100,card
+2026-06-23,Priya Shah,100,card
+2026-06-25,Maple Falls Bakery,150,cash
+2026-06-25,Hiro Tanaka,25,cash
+2026-06-26,Jordan Lee,10,card
+2026-06-26,Elena Petrova,50,card
+2026-06-28,Anonymous,50,card
+2026-06-30,Priya Shah,20,card
