@@ -3,7 +3,7 @@
 These are the companion files for the book *Python from Zero: A friendly, hands-on guide
 to writing your first real programs* by Mathew Kariuki.
 
-**Get the book:** [Paperback](https://www.amazon.com/dp/B0HMGH54XN) and [Kindle](https://www.amazon.com/dp/B0HMFSQN55) on Amazon ([Amazon Australia](https://www.amazon.com.au/dp/B0HMGH54XN)), or the [PDF + EPUB bundle on Gumroad](https://mathewkariuki.gumroad.com/l/python-from-zero).
+**Get the book:** [Paperback](https://www.amazon.com/dp/B0HMGH54XN) and [Kindle](https://www.amazon.com/dp/B0HMFSQN55) on Amazon ([Amazon Australia](https://www.amazon.com.au/dp/B0HMGH54XN)). Kindle Unlimited members can read the Kindle edition at no extra cost.
 
 - `notebooks/` has one Jupyter notebook per chapter, already run so you can see the output.
 - `programs/` has the programs you run as files, including the Chapter 17 Shelter Manager.
