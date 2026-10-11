@@ -3,7 +3,7 @@
 These are the companion files for the book *Python from Zero: A friendly, hands-on guide
 to writing your first real programs* by Mathew Kariuki.
 
-**Get the book:** [Buy it on Gumroad](https://mathewkariuki.gumroad.com/l/python-from-zero) (Kindle and paperback coming soon on Amazon).
+**Get the book:** [Paperback](https://www.amazon.com/dp/B0HMGH54XN) and [Kindle](https://www.amazon.com/dp/B0HMFSQN55) on Amazon ([Amazon Australia](https://www.amazon.com.au/dp/B0HMGH54XN)), or the [PDF + EPUB bundle on Gumroad](https://mathewkariuki.gumroad.com/l/python-from-zero).
 
 - `notebooks/` has one Jupyter notebook per chapter, already run so you can see the output.
 - `programs/` has the programs you run as files, including the Chapter 17 Shelter Manager.
@@ -21,5 +21,5 @@ Sunny Paws and all of its animals, people and data are fictional.
 
 ## More from Mathew Kariuki
 
-- [Data Analytics with Python and Jupyter Notebook](https://mathewkariuki.gumroad.com/l/data-analytics-with-python): the next step after this book, analysing real data with pandas and charts.
+- [Data Analytics with Python and Jupyter Notebook](https://www.amazon.com/dp/B0HMFZPFCH) (paperback on Amazon, or the [PDF bundle on Gumroad](https://mathewkariuki.gumroad.com/l/data-analytics-with-python)): the next step after this book, analysing real data with pandas and charts.
 - [mathewkanalytics.com](https://www.mathewkanalytics.com/): 700+ free video lessons with Jupyter notebooks.
