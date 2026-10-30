@@ -21,5 +21,5 @@ Sunny Paws and all of its animals, people and data are fictional.
 
 ## More from Mathew Kariuki
 
-- [Data Analytics with Python and Jupyter Notebook](https://www.amazon.com/dp/B0HMFZPFCH) (paperback on Amazon, or the [PDF bundle on Gumroad](https://mathewkariuki.gumroad.com/l/data-analytics-with-python)): the next step after this book, analysing real data with pandas and charts.
+- [Data Analytics with Python and Jupyter Notebook](https://www.amazon.com/dp/B0HMFZPFCH) (paperback on Amazon): the next step after this book, analysing real data with pandas and charts.
 - [mathewkanalytics.com](https://www.mathewkanalytics.com/): 700+ free video lessons with Jupyter notebooks.
