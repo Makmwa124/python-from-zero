@@ -23,3 +23,13 @@ Sunny Paws and all of its animals, people and data are fictional.
 
 - [Data Analytics with Python and Jupyter Notebook](https://www.amazon.com/dp/B0HMFZPFCH) (paperback on Amazon): the next step after this book, analysing real data with pandas and charts.
 - [mathewkanalytics.com](https://www.mathewkanalytics.com/): 700+ free video lessons with Jupyter notebooks.
+
+
+## Free lessons that go with this book
+
+Keep going with free beginner video lessons and notebooks on [Mathew K Analytics](https://www.mathewkanalytics.com/):
+
+- [Python Beginner Course](https://www.mathewkanalytics.com/series/python-beginner-course/)
+- [Python Fundamentals](https://www.mathewkanalytics.com/series/python-fundamentals/)
+- [Python zero to hero](https://www.mathewkanalytics.com/lessons/python-for-data-analysts/002-python-zero-to-hero/)
+- [Python programmer learning path](https://www.mathewkanalytics.com/paths/python-programmer/)
